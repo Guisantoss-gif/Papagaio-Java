@@ -12,7 +12,7 @@ public static void main(String[] args) {
  } else{ 
    System.out.println("Você digitou " +  args[1]); 
  }
-
+System.out.println("Criado por Guilherme Oliveira Santos");
 } 
  }
 
